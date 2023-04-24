@@ -1,5 +1,3 @@
-# SHIPMENT-PROJECT
-4TH SEMESTER PROJECT
 
 AARAKSHAN:AN ALL IN ONE APP is developed using c++ and we have implemented the concepts of oops,maps,vectors and data file handling it .
 We have also used the standard library functions.It is a menu driven program.This program is developed to overcome the existing system which had some flaws.It is developed to ease the work of the managing team as well as the user.It saves a lot of the time of the managing team as well as the user.The existing system of booking was a manual system in which there were a lot of chances of errors to occur so to overcome these issues this program is very helpful.
