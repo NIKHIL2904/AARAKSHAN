@@ -8,12 +8,12 @@ ii)transportation booking
 iii)food booking
 iv)entertainment booking
 
-Each of the above services contain sub contains sub menu.So that the customer is provided with a lot of options to choose from.The customer is also allowed to select multiple options according to his/her need.To implement the various options under the room,transportation,food and entertainment services we have used map because it is a key value pair.We have used rand() function to generate room numbers and number plates of the vehicles in the transportation class.
+### SCREENSHOTS
 
-Finally the user is allowed to enter the mode of payment according to his/her convenience(by cash or by card)and a bill with all the necessary information gets printed on the screen.
+<img align="center" width="700" alt="image" src="https://user-images.githubusercontent.com/71872570/233990088-2cabe2ad-38c3-4b31-8e59-d3b1cc120db0.png">
 
-Simultaneously, we have stored the total amount to be paid in text file using data file handling so it can be used in future purposes too.
+<img align="center" width="454" alt="image" src="https://user-images.githubusercontent.com/71872570/233990811-a4b06500-3f20-4c52-b4f5-4cfd33f726f0.png">
 
-We have implemented Data abstraction,Data encapsulation,Inheritance using classes.We have also included modularity by creating modules or functions in the program.
+<img align="center" width="454" alt="image" src="https://user-images.githubusercontent.com/71872570/233990908-dc3f20d0-12c9-4a23-952d-f3ac2bb34a45.png">
 
 
